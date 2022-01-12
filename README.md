@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mounica!</h1>  
-<h3 align="center">A passionate web developer from India.</h3>  
   
 - 👩‍🎓 I'm a sophomore at IIIT Gwalior pursuing Information Technology
 
