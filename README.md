@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Mounica!</h1>  
+<h1 align="center">Hey there 👋, I'm Mounica!</h1>  
   
 - 👩‍🎓 I'm a sophomore at IIIT Gwalior pursuing Information Technology
 
-- 🌱 I’m currently learning React and DSA
+- 👨‍💻 I'm a Cloud Solutions Engineering Intern at [Pingsafe](https://www.pingsafe.com/) and an [ETHWMN Fellow](https://ethwmn.devfolio.co/)
+
+- 🔭 I’m currently exploring the field of Blockchain
+
+- 👯 I’m looking to contribute to open source projects
   
-- 👨‍💻 Pronouns: she/her/hers
-  
-- 📝 You can check out my articles [here](https://medium.com/@mounicasruthi)  
+- 😄 Pronouns: she/her/hers
     
-- 📫 Feel free to reach me out at **mounicasruthi30@gmail.com**  
+- 📫 Feel free to reach out to me at **mounicasruthi30@gmail.com**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
