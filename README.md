@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Mounica!</h1>  
   
-- 👩‍🎓 I'm a sophomore at IIIT Gwalior pursuing Information Technology
+- 👩‍🎓 I'm a sophomore at IIIT Gwalior studying Information Technology
 
 - 👨‍💻 I'm a Cloud Solutions Engineering Intern at [Pingsafe](https://www.pingsafe.com/) and an [ETHWMN Fellow](https://ethwmn.devfolio.co/)
 
