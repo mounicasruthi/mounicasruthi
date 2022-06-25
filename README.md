@@ -2,7 +2,7 @@
   
 - 👩‍🎓 I'm a sophomore at IIIT Gwalior studying Information Technology
 
-- 👨‍💻 I'm a Cloud Solutions Engineering Intern at [Pingsafe](https://www.pingsafe.com/) and an [ETHWMN Fellow](https://ethwmn.devfolio.co/)
+<!-- - 👨‍💻 I'm a Cloud Solutions Engineering Intern at [Pingsafe](https://www.pingsafe.com/) and an [ETHWMN Fellow](https://ethwmn.devfolio.co/) -->
 
 - 🔭 I’m currently exploring the field of Blockchain
 
