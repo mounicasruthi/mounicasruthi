@@ -1,6 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Mounica</h1>
-
-## About Me
+<h1 align="center">Hey there 👋, I'm Mounica!</h1>
 
 - 🎓 I am a final year student at IIIT Gwalior, pursuing my Integrated B.Tech and M.Tech in Information Technology.
 - 🌱 I am passionate about exploring various tech domains including web development, blockchain, cloud security, and generative AI.
@@ -9,7 +7,6 @@
 - 👯 I am always open to collaborating on exciting projects and innovative solutions.
 - 💬 Feel free to reach out to me with any interesting ideas or opportunities!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mounicasruthi" alt="mounicasruthi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +21,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mounicasruthi&show_icons=true&locale=en&layout=compact" alt="mounicasruthi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mounicasruthi&" alt="mounicasruthi" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mounicasruthi" alt="mounicasruthi" /></a> </p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mounicasruthi&label=Profile%20views&color=0e75b6&style=flat" alt="mounicasruthi" /> </p>
