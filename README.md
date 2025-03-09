@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Mounica!</h1>
 
 - 🎓 I'm a final year student at IIIT Gwalior, pursuing an Integrated Dual Degree in Information Technology.
-- 🌱 I'm passionate about exploring various tech domains including web development, blockchain, cloud security, and generative AI.
+- 🌱 I'm passionate about exploring various tech domains including Web Development, Blockchain, Cloud Security, and Generative AI.
 - 💼 I have gained hands-on experience through internships at Amazon, MindfulFeed, and PingSafe AI, working on a variety of projects from enhancing Alexa functionalities to developing full-stack applications and cloud security solutions.
 - 💡 I thrive on curiosity and I'm constantly seeking opportunities to learn and grow.
 - 👯 I'm always open to collaborating on exciting projects and innovative solutions.
